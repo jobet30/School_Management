@@ -3,10 +3,50 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/School_Management/config/database.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/models/Subject.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/controllers/SubjectController.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/views/student/add.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/controllers/CourseController.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/helpers/functions.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/controllers/GradesController.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/models/Enrollment.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/controllers/AssignmentSubmissionController.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/controllers/ExtracurricularActivitiesController.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/models/Announcement.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/controllers/ClassesController.php</file>
             <file>file:/C:/xampp/htdocs/School_Management/app/controllers/StudentController.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/views/student/edit.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/public/styles/js/jquery.min.js</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/models/Grades.php</file>
             <file>file:/C:/xampp/htdocs/School_Management/app/controllers/TeacherController.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/public/styles/js/scripts.js</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/controllers/ExamsController.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/models/Course.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/views/includes/footer.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/controllers/AttendanceController.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/controllers/EnrollmentController.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/controllers/AssignmentController.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/controllers/ExamResultsController.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/views/student/index.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/helpers/database.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/models/ExtraCurricularActivity.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/public/styles/css/styles.css</file>
             <file>file:/C:/xampp/htdocs/School_Management/config/config.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/models/Exam.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/models/ClassModel.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/models/ExtraCurricularParticipation.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/models/Assignment.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/config/database.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/controllers/ExtraCurricularParticipationController.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/models/ExamResult.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/index.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/helpers/session.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/models/AssignmentSubmission.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/controllers/AnnouncementController.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/models/Teacher.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/views/includes/header.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/models/Student.php</file>
+            <file>file:/C:/xampp/htdocs/School_Management/app/models/Attendance.php</file>
         </group>
     </open-files>
 </project-private>
